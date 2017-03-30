@@ -36,4 +36,4 @@ https://django-debug-toolbar.readthedocs.io/en/stable/installation.html
 
 pip install django-debug-toolbar
 
-### 5.
+### 5.seo
